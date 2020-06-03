@@ -95,7 +95,7 @@ public class TicTacToe {
             board[r][c] = p;
             turns++;
         } else {
-            System.out.println("sorry you cant go here");
+            System.out.println("sorry you cant go here. try again");
         }
     }
 
